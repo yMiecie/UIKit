@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For UIKit
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+UIImage	KEYWORD1
+UIImageView	KEYWORD1
+UILabel	KEYWORD1
+UILine	KEYWORD1
+UINavigationViewController	KEYWORD1
+UIPagerViewController	KEYWORD1
+UIScreen	KEYWORD1
+UIView	KEYWORD1
+UIViewController	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+viewDidLoad	KEYWORD2
+viewWillAppear	KEYWORD2
+viewDidAppear	KEYWORD2
+viewWillDesappear KEYWORD2
+viewDidDesappear KEYWORD2
+viewWillUpdate KEYWORD2
+viewDidUpdate KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################

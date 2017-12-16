@@ -1,0 +1,19 @@
+{
+    "name": "UIKit",
+    "description": "An Arduino library similared to Apple UIKit and developed for managing GUI on different kind off display with animations and navigation path.",
+    "keywords": "UI, GUI, animations, display",
+    "authors": [
+        {
+            "name": "Yann Miecielica",
+            "email": "yann.miecielica@gmail.com",
+            "url": "https://github.com/yMiecie",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yMiecie/UIKit"
+    },
+    "version": "0.0.1",
+    "frameworks": "Arduino"
+}
